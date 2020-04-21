@@ -1,5 +1,4 @@
-# Rocket-Attitude-Dynamics
-Attitude control of a rocket in atmosferic flight 
+# Attitude control of a rocket in atmosferic flight 
 
 Authors: Domenico Trotta, Alessandro Zavoli, Guido De Matteis
 
