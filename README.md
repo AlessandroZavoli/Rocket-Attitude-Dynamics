@@ -1,6 +1,10 @@
 # Rocket-Attitude-Dynamics
 Attitude control of a rocket in atmosferic flight 
 
+Authors: Domenico Trotta, Alessandro Zavoli, Guido De Matteis
+
+
+
 Numerical data
 - GreensiteLPV_DATA.txt: LV model parameters
 - Controller.txt: PD controller gain and LP filter data
