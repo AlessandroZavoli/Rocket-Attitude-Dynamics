@@ -12,5 +12,5 @@ MATLAB/Simulink LV Model
     - Drywind.mat: High altitude Dryden wind model parameters
     - Qmax.mat: Aerodynamics load safty envelope data
     - gain_delay_state_model.m: function to create delay padè approximantion transfer function 
-- LV_Greensite.slx: Simulink model of Launch Vehicle features Baseline controller and wind disturbances
+- LV_Greensite.slx: Simulink model including launch vehicle and wind models. baseline controller active
 
